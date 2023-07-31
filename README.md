@@ -1,6 +1,6 @@
-# Erkennung von energetischen Anomalien in industriellen Prozessdaten mit Deep Learning Architekturen
+# Detection of anomalies in industrial time series process data with Active Deep Learning architectures
 
-## Repository Struktur
+## Repository structure
 
 - Main Notebook: `DAAD-AURSAD-lib.ipynb`
 - Model implementation: `machine_learning/`
